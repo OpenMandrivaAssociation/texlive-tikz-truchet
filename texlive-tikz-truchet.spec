@@ -1,6 +1,6 @@
 Name:		texlive-tikz-truchet
 Version:	50020
-Release:	1
+Release:	2
 Summary:	Draw Truchet tiles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-truchet

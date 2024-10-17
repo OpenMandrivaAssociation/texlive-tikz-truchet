@@ -3,7 +3,7 @@ Version:	50020
 Release:	2
 Summary:	Draw Truchet tiles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-truchet
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-truchet
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-truchet.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-truchet.doc.r%{version}.tar.xz
